@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -28,13 +28,12 @@
         /* Styles for generated markdown content */
         .content-prose {
             line-height: 1.7;
-            color: #374151; /* Base text color for light mode */
+            overflow-wrap: break-word; /* Ensure long text wraps */
         }
         .content-prose h1, .content-prose h2, .content-prose h3, .content-prose h4 {
             font-weight: 600;
             margin-top: 2em;
             margin-bottom: 1em;
-            color: #111827;
         }
         .content-prose h1 { font-size: 2.25rem; }
         .content-prose h2 { font-size: 1.875rem; }
@@ -66,6 +65,14 @@
             background-color: #f9fafb;
             font-weight: 600;
         }
+        .content-prose pre {
+            white-space: pre-wrap;       /* CSS3 */
+            white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+            white-space: -pre-wrap;      /* Opera 4-6 */
+            white-space: -o-pre-wrap;    /* Opera 7 */
+            word-wrap: break-word;       /* Internet Explorer 5.5+ */
+        }
+
 
         /* Dark mode styles for generated markdown content */
         .dark .content-prose {
@@ -83,6 +90,17 @@
         }
         .dark .content-prose th {
             background-color: #1f2937;
+        }
+
+        /* Active sidebar link style */
+        .sidebar-link.active {
+            background-color: #e8e7e4;
+            font-weight: 600;
+            color: #111827;
+        }
+        .dark .sidebar-link.active {
+            background-color: #374151;
+            color: #f9fafb;
         }
     </style>
 </head>
@@ -146,74 +164,100 @@
     <div id="reader-view" class="hidden">
         <div class="flex h-screen">
             <!-- Sidebar -->
-            <aside id="sidebar" class="w-72 bg-white/50 dark:bg-gray-900/50 backdrop-blur-sm border-r border-gray-200/80 dark:border-gray-700/80 p-6 fixed lg:relative h-full transform -translate-x-full lg:translate-x-0 transition-transform duration-300 ease-in-out z-20 overflow-y-auto">
-                <a href="#" onclick="showHomePage()" class="flex items-center mb-8 cursor-pointer">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-gray-600 dark:text-gray-400 mr-3"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>
-                    <h1 class="text-xl font-bold text-gray-800 dark:text-gray-200">Musicology Series</h1>
-                </a>
-                <nav class="space-y-4">
-                    <div>
-                        <a href="#" onclick="showHomePage()" class="text-lg font-semibold text-gray-700 dark:text-gray-300 mb-2 block">Books</a>
-                        <ul class="space-y-1">
-                            <li>
-                                <a href="#" class="sidebar-link block w-full text-left px-4 py-2 rounded-md font-medium text-gray-700 dark:text-gray-300" onclick="toggleBook('book1')">Musicology of India: Part I</a>
-                                <ul id="book1-chapters" class="pl-4 mt-1 space-y-1">
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('preface', this)">Preface</a></li>
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter1', this)">Chapter 1: Sangeet or Music</a></li>
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter2', this)">Chapter 2: The Two Systems</a></li>
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter3', this)">Chapter 3: Nada</a></li>
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter4', this)">Chapter 4: Shruti, Swara & Saptak</a></li>
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter5', this)">Chapter 5: Thata</a></li>
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter6', this)">Chapter 6: Varna</a></li>
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter7', this)">Chapter 7: Raga</a></li>
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter8', this)">Chapter 8: Ashraya Raga</a></li>
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter9', this)">Chapter 9: Shuddha & Vikrit Swara</a></li>
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter10', this)">Chapter 10: Vadi, Samvadi, etc.</a></li>
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter11', this)">Chapter 11: Musical Terms</a></li>
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter12', this)">Chapter 12: Musical Instruments</a></li>
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter13', this)">Chapter 13: Notation System History</a></li>
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter14', this)">Chapter 14: Notation Systems</a></li>
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter15', this)">Chapter 15: Musical Compositions</a></li>
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter16', this)">Chapter 16: Distinguished Musicians</a></li>
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter17', this)">Chapter 17: Fourteen Ragas</a></li>
-                                    <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter18', this)">Chapter 18: Fourteen Talas</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="#" class="sidebar-link disabled block w-full text-left px-4 py-2 rounded-md font-medium">Part II (Coming Soon)</a></li>
-                            <li><a href="#" class="sidebar-link disabled block w-full text-left px-4 py-2 rounded-md font-medium">Part III (Coming Soon)</a></li>
-                            <li><a href="#" class="sidebar-link disabled block w-full text-left px-4 py-2 rounded-md font-medium">Part IV (Coming Soon)</a></li>
-                        </ul>
-                    </div>
-                </nav>
+            <aside id="sidebar" class="w-72 bg-white dark:bg-gray-800 border-r border-gray-200/80 dark:border-gray-700/80 p-6 fixed lg:relative h-full transform -translate-x-full lg:translate-x-0 transition-transform duration-300 ease-in-out z-20 flex flex-col">
+                <div class="flex-1 flex flex-col min-h-0">
+                    <a href="#" onclick="showHomePage()" class="flex items-center mb-8 cursor-pointer">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-gray-600 dark:text-gray-400 mr-3"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>
+                        <h1 class="text-xl font-bold text-gray-800 dark:text-gray-200">Musicology Series</h1>
+                    </a>
+                    <nav class="space-y-4 flex-1 overflow-y-auto">
+                        <div>
+                            <a href="#" onclick="showHomePage()" class="text-lg font-semibold text-gray-700 dark:text-gray-300 mb-2 block">Books</a>
+                            <ul class="space-y-1">
+                                <li>
+                                    <a href="#" class="sidebar-link block w-full text-left px-4 py-2 rounded-md font-medium text-gray-700 dark:text-gray-300" onclick="toggleBook('book1')">Musicology of India: Part I</a>
+                                    <ul id="book1-chapters" class="pl-4 mt-1 space-y-1">
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('preface', this)">Preface</a></li>
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter1', this)">Chapter 1: Sangeet or Music</a></li>
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter2', this)">Chapter 2: The Two Systems</a></li>
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter3', this)">Chapter 3: Nada</a></li>
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter4', this)">Chapter 4: Shruti, Swara & Saptak</a></li>
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter5', this)">Chapter 5: Thata</a></li>
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter6', this)">Chapter 6: Varna</a></li>
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter7', this)">Chapter 7: Raga</a></li>
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter8', this)">Chapter 8: Ashraya Raga</a></li>
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter9', this)">Chapter 9: Shuddha & Vikrit Swara</a></li>
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter10', this)">Chapter 10: Vadi, Samvadi, etc.</a></li>
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter11', this)">Chapter 11: Musical Terms</a></li>
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter12', this)">Chapter 12: Musical Instruments</a></li>
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter13', this)">Chapter 13: Notation System History</a></li>
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter14', this)">Chapter 14: Notation Systems</a></li>
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter15', this)">Chapter 15: Musical Compositions</a></li>
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter16', this)">Chapter 16: Distinguished Musicians</a></li>
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter17', this)">Chapter 17: Fourteen Ragas</a></li>
+                                        <li><a href="#" class="sidebar-link block px-4 py-2 text-sm rounded-md hover:bg-gray-200/60 dark:hover:bg-gray-700/60" onclick="loadChapter('chapter18', this)">Chapter 18: Fourteen Talas</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="#" class="sidebar-link disabled block w-full text-left px-4 py-2 rounded-md font-medium">Part II (Coming Soon)</a></li>
+                                <li><a href="#" class="sidebar-link disabled block w-full text-left px-4 py-2 rounded-md font-medium">Part III (Coming Soon)</a></li>
+                                <li><a href="#" class="sidebar-link disabled block w-full text-left px-4 py-2 rounded-md font-medium">Part IV (Coming Soon)</a></li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+                <div class="mt-auto p-4 border-t border-gray-200/80 dark:border-gray-700/80">
+                     <button id="theme-toggle-sidebar" class="w-full flex items-center justify-center p-2 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500 text-gray-600 dark:text-gray-400 hover:bg-gray-200/60 dark:hover:bg-gray-700/60">
+                        <!-- Icons will be injected by JS -->
+                    </button>
+                </div>
             </aside>
 
             <!-- Main Content -->
-            <main class="flex-1 flex flex-col">
+            <main class="flex-1 flex flex-col relative overflow-x-hidden">
                 <!-- Header for Mobile -->
                 <header class="lg:hidden flex items-center justify-between p-4 border-b bg-white/70 dark:bg-gray-800/70 backdrop-blur-sm dark:border-gray-700/80 border-gray-200/80 sticky top-0 z-10">
-                    <h1 id="mobile-header-title" class="text-lg font-semibold text-gray-800 dark:text-gray-200 truncate">Preface</h1>
-                    <div class="flex items-center">
-                        <button id="theme-toggle-mobile" class="p-2 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500 text-gray-600 dark:text-gray-400 mr-2">
-                            <!-- Icons will be injected by JS -->
-                        </button>
+                    <div class="flex items-center flex-1 min-w-0">
                         <button id="menu-button" class="p-2 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500 text-gray-600 dark:text-gray-400">
                             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
                             </svg>
                         </button>
+                        <h1 id="mobile-header-title" class="text-lg font-semibold text-gray-800 dark:text-gray-200 truncate ml-4 text-center">Preface</h1>
                     </div>
+                    <a href="#" onclick="showHomePage()" class="p-2 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500 text-gray-600 dark:text-gray-400 ml-4">
+                         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" /></svg>
+                    </a>
                 </header>
                 
                 <!-- Reading Area -->
-                <div class="flex-1 overflow-y-auto p-6 md:p-10 lg:p-12">
+                <div id="reading-pane" class="flex-1 overflow-y-auto px-6 md:px-10 pt-6 md:pt-10 pb-48">
                     <div id="content-area" class="max-w-3xl mx-auto content-prose">
                         <!-- Chapter content will be loaded here -->
                     </div>
                 </div>
+
+                <!-- Bottom Navigation -->
+                <footer id="bottom-nav" class="fixed bottom-0 left-0 lg:left-72 right-0 p-4 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm border-t border-gray-200/80 dark:border-gray-700/80">
+                    <div class="max-w-3xl mx-auto flex justify-between items-center">
+                        <button id="prev-chapter-btn" onclick="prevChapter()" class="flex items-center px-4 py-2 bg-gray-200 dark:bg-gray-700 rounded-md text-gray-700 dark:text-gray-300 hover:bg-gray-300 dark:hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" /></svg>
+                            Previous
+                        </button>
+                        <button id="next-chapter-btn" onclick="nextChapter()" class="flex items-center px-4 py-2 bg-gray-200 dark:bg-gray-700 rounded-md text-gray-700 dark:text-gray-300 hover:bg-gray-300 dark:hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed">
+                            Next
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" /></svg>
+                        </button>
+                    </div>
+                </footer>
+
+                <!-- Back to Top Button -->
+                <button id="back-to-top" onclick="scrollToTop()" class="fixed bottom-24 right-6 bg-gray-800/50 dark:bg-gray-200/50 text-white dark:text-black h-12 w-12 rounded-full flex items-center justify-center shadow-lg opacity-0 transform translate-y-4 transition-all duration-300">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7" /></svg>
+                </button>
             </main>
             
             <!-- Overlay for mobile sidebar -->
-            <div id="overlay" class="fixed inset-0 bg-black/30 z-10 hidden lg:hidden" onclick="toggleSidebar()"></div>
+            <div id="overlay" class="fixed inset-0 bg-black/60 z-10 hidden lg:hidden" onclick="toggleSidebar()"></div>
         </div>
     </div>
 
@@ -227,30 +271,41 @@
         const homePage = document.getElementById('home-page');
         const readerView = document.getElementById('reader-view');
         const themeToggleHome = document.getElementById('theme-toggle-home');
-        const themeToggleMobile = document.getElementById('theme-toggle-mobile');
+        const themeToggleSidebar = document.getElementById('theme-toggle-sidebar');
+        const readingPane = document.getElementById('reading-pane');
+        const bottomNav = document.getElementById('bottom-nav');
+        const backToTopBtn = document.getElementById('back-to-top');
+        const prevChapterBtn = document.getElementById('prev-chapter-btn');
+        const nextChapterBtn = document.getElementById('next-chapter-btn');
 
         // --- Theme Toggle Icons ---
-        const sunIcon = `<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" /></svg>`;
-        const moonIcon = `<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" /></svg>`;
+        const sunIcon = `<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" /></svg> <span class="ml-2">Light Mode</span>`;
+        const moonIcon = `<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" /></svg> <span class="ml-2">Dark Mode</span>`;
 
+        // --- Navigation State ---
+        const chapterOrder = ['preface', 'chapter1', 'chapter2', 'chapter3', 'chapter4', 'chapter5', 'chapter6', 'chapter7', 'chapter8', 'chapter9', 'chapter10', 'chapter11', 'chapter12', 'chapter13', 'chapter14', 'chapter15', 'chapter16', 'chapter17', 'chapter18'];
+        let currentChapterIndex = 0;
 
         // --- Functions ---
         
         function showHomePage() {
+            document.body.classList.remove('overflow-hidden');
             homePage.classList.remove('hidden');
             readerView.classList.add('hidden');
         }
 
         function showReaderView() {
+            document.body.classList.add('overflow-hidden');
             homePage.classList.add('hidden');
             readerView.classList.remove('hidden');
             const prefaceLink = document.querySelector('#book1-chapters a');
-            loadChapter('preface', prefaceLink);
+            loadChapter('preface', prefaceLink, 'home');
         }
 
-        async function loadChapter(chapterId, clickedElement) {
+        async function loadChapter(chapterId, clickedElement, source = 'sidebar') {
             const filePath = `content/${chapterId}.md`;
             const chapterTitle = clickedElement.textContent;
+            currentChapterIndex = chapterOrder.indexOf(chapterId);
 
             try {
                 const response = await fetch(filePath);
@@ -260,21 +315,56 @@
                 const markdown = await response.text();
                 contentArea.innerHTML = marked.parse(markdown);
                 mobileHeaderTitle.textContent = chapterTitle;
+
+                // Wrap tables for horizontal scrolling on mobile
+                contentArea.querySelectorAll('table').forEach(table => {
+                    const wrapper = document.createElement('div');
+                    wrapper.style.overflowX = 'auto';
+                    wrapper.style.webkitOverflowScrolling = 'touch'; // For smooth scrolling on iOS
+                    table.parentNode.insertBefore(wrapper, table);
+                    wrapper.appendChild(table);
+                });
                 
                 document.querySelectorAll('.sidebar-link.active').forEach(el => el.classList.remove('active'));
                 if(clickedElement) {
                     clickedElement.classList.add('active');
                 }
 
-                contentArea.parentElement.scrollTop = 0;
+                readingPane.scrollTop = 0;
+                updateNavButtons();
                 
-                if (window.innerWidth < 1024) {
+                if (window.innerWidth < 1024 && source === 'sidebar') {
                     toggleSidebar();
                 }
             } catch (error) {
                 console.error('Error loading chapter:', error);
                 contentArea.innerHTML = `<p class="text-red-500"><strong>Error:</strong> Could not load content for this chapter. Please ensure you are running this from a local web server.</p>`;
             }
+        }
+
+        function updateNavButtons() {
+            prevChapterBtn.disabled = currentChapterIndex === 0;
+            nextChapterBtn.disabled = currentChapterIndex === chapterOrder.length - 1;
+        }
+
+        function prevChapter() {
+            if (currentChapterIndex > 0) {
+                const prevChapterId = chapterOrder[currentChapterIndex - 1];
+                const link = document.querySelector(`a[onclick="loadChapter('${prevChapterId}', this)"]`);
+                loadChapter(prevChapterId, link, 'footer');
+            }
+        }
+
+        function nextChapter() {
+            if (currentChapterIndex < chapterOrder.length - 1) {
+                const nextChapterId = chapterOrder[currentChapterIndex + 1];
+                const link = document.querySelector(`a[onclick="loadChapter('${nextChapterId}', this)"]`);
+                loadChapter(nextChapterId, link, 'footer');
+            }
+        }
+        
+        function scrollToTop() {
+            readingPane.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
         function toggleSidebar() {
@@ -293,12 +383,12 @@
         function applyTheme(theme) {
             if (theme === 'dark') {
                 document.documentElement.classList.add('dark');
-                themeToggleHome.innerHTML = sunIcon;
-                themeToggleMobile.innerHTML = sunIcon;
+                themeToggleHome.innerHTML = sunIcon.replace(' <span class="ml-2">Light Mode</span>', '');
+                themeToggleSidebar.innerHTML = sunIcon;
             } else {
                 document.documentElement.classList.remove('dark');
-                themeToggleHome.innerHTML = moonIcon;
-                themeToggleMobile.innerHTML = moonIcon;
+                themeToggleHome.innerHTML = moonIcon.replace(' <span class="ml-2">Dark Mode</span>', '');
+                themeToggleSidebar.innerHTML = moonIcon;
             }
         }
 
@@ -312,7 +402,17 @@
         // --- Event Listeners ---
         menuButton.addEventListener('click', toggleSidebar);
         themeToggleHome.addEventListener('click', toggleTheme);
-        themeToggleMobile.addEventListener('click', toggleTheme);
+        themeToggleSidebar.addEventListener('click', toggleTheme);
+
+
+        readingPane.addEventListener('scroll', () => {
+            // Back to Top button show/hide logic
+            if (readingPane.scrollTop > window.innerHeight) {
+                backToTopBtn.classList.remove('opacity-0', 'translate-y-4');
+            } else {
+                backToTopBtn.classList.add('opacity-0', 'translate-y-4');
+            }
+        });
 
 
         // --- Initial Load ---
