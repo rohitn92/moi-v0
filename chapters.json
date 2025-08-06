@@ -1,0 +1,21 @@
+[
+  { "id": "preface", "title": "Preface" },
+  { "id": "chapter1", "title": "Chapter 1: Sangeet or Music" },
+  { "id": "chapter2", "title": "Chapter 2: The Two Systems" },
+  { "id": "chapter3", "title": "Chapter 3: Nada" },
+  { "id": "chapter4", "title": "Chapter 4: Shruti, Swara & Saptak" },
+  { "id": "chapter5", "title": "Chapter 5: Thata" },
+  { "id": "chapter6", "title": "Chapter 6: Varna" },
+  { "id": "chapter7", "title": "Chapter 7: Raga" },
+  { "id": "chapter8", "title": "Chapter 8: Ashraya Raga" },
+  { "id": "chapter9", "title": "Chapter 9: Shuddha & Vikrit Swara" },
+  { "id": "chapter10", "title": "Chapter 10: Vadi, Samvadi, etc." },
+  { "id": "chapter11", "title": "Chapter 11: Musical Terms" },
+  { "id": "chapter12", "title": "Chapter 12: Musical Instruments" },
+  { "id": "chapter13", "title": "Chapter 13: Notation System History" },
+  { "id": "chapter14", "title": "Chapter 14: Notation Systems" },
+  { "id": "chapter15", "title": "Chapter 15: Musical Compositions" },
+  { "id": "chapter16", "title": "Chapter 16: Distinguished Musicians" },
+  { "id": "chapter17", "title": "Chapter 17: Fourteen Ragas" },
+  { "id": "chapter18", "title": "Chapter 18: Fourteen Talas" }
+]
