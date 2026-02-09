@@ -1,26 +1,78 @@
 
 ## CHAPTER VIII
-### ASHRAYA RAGA
+### RAGA
 
-It has already been described in the Chapter having the description of 'THATA' that in order to recognise a 'THATA' it is named after a big and famous Raga produced therefrom. This rule of assigning names to the 'THATAS' has been recognised by all the writers on music, both ancient and modern, and it is an accepted principle of Hindustani System of music even to this day.
+The term Raga is derived from the Sanskrit root 'Ranja' (रञ्ज) which means to please or to be agreeable. Literally, therefore, the word Raga would mean anything that pleases the mind. But from the musical point of view the term Raga connotes some particular thing and is used to express that thing alone. Therefore in its technical sense the term Raga means a sweet combination of musical tones in successive order.
 
-'Ashraya Raga' is that big and famous Raga after whose name the name of its 'Thata' is assigned. As for instance "Sa Re Ga_ Ma Pa Dha Ni_ 'Sa" this collection of notes, which has Ga and Ni flat (Komal), indicates that it is "Kaphi Thata". Now this Swara-Saptak or the gamut of seven notes has been named as 'Kaphi Thata' because a big and famous Raga known as 'Kaphi' is derived from this 'Thata'. And since a 'Thata' is named after a big and famous Raga produced therefrom, therefore "Sa Re Ga_ Ma Pa Dha Ni_ 'Sa" this collection of seven notes has been named as "Kaphi Thata". Hence that big and famous Raga after whose name the name of its 'Thata' is assigned is called "Ashraya Raga".
+In order to understand the definition of Raga three things must be kept in mind: (1) Specific combination of sounds, (2) Presence of 'Swara' and 'Varna'; and (3) Presence of sweetness (Ranjakta).
 
-It may be remembered here that Ragas which are produced from the same 'Thata' have some tinge of the Ashraya Raga of that 'Thata'. In other words, Ragas that are produced from Kaphi Thata have some tinge of Kaphi Raga in them which is the Ashraya Raga of Kaphi Thata. As for example, while singing a Raga derived from Kaphi Thata if a musician just goes astray from the independent rules of that particular Raga, it is quite likely that some tinge of Kaphi Raga may become visible in that particular Raga.
+The words 'Varna' and 'Ranjakta' are very significant in the definition of Raga. 'Varna' refers to the succession of musical tones which means that the notes should be in successive order and not simultaneous sounding thereof. 'Ranjakta' means sweetness or musical Value. A passage of musical tones may or may not have musical value. For example 'Ma, Ni, Re, Dha Ga, Ga, Pa, Re, Ga, Ni' etc. This combination of notes has not the least sweetness. Here the notes are so arranged that they have not an iota of musical value. Neither the notes are in succession nor they are melodious. In fact, the arrangement of notes is very important and besides it must be melodious. Therefore any sweet combination of musical tones coming one after another in succession is called a Raga.
 
-Ashraya Raga is also known as Thata-Vachak-Raga or the Raga which suggests the name of the Thata of a Raga. In Hindustani system of music there are in all ten Ashraya Ragas known as Yaman, Bilawal, Khamaj, Bhairava, Poorvi, Marwa, Kaphi, Asawari, Bhairavi and Todi. All these ten Ragas are big and famous Ragas having wide scope.
+**Definition of Raga:**- A Raga is that which is beautified by the tonal excellence of 'Swara' and 'Varna' and which gives pleasure to the mind of the listeners. In common parlance we can say that an array of sounds in musical tones and in successive order which pleases the ear and satisfies the craving for music is known as Raga. In other words, a certain passage of music which is sweet to hear is called Raga.
 
-**Table showing the ten 'Thatas' or 'Parent modes' and the Ashraya Ragas derived therefrom:-**
+Our Sanskrit writers on music define Raga as under :-
+> योऽयं ध्वनिविशेषस्तु स्वरवर्ण विभूषितः ।
+> रंजको जन चित्तानां स रागः कथ्यिते बुधै ।।
+>
+> Yo Yam Dhwani Visheshastu Swara Varna Vibhushita,
+> Ranjako Jan Chittanam Sa Raga Kathiyate Budhai.
 
-| No. | Thata                                            | Ashraya Raga                                                                                    |
-| --- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| 1.  | Bilawal:<br>`Sa Re Ga Ma Pa Dha Ni 'Sa`          | Bilawal:<br>Aroha: `Sa Re Ga Ma Pa Dha Ni 'Sa`<br>Avaroha: `'Sa Ni Dha Pa Ma Ga Re Sa`          |
-| 2.  | Yaman or Kalyan:<br>`Sa Re Ga Ma' Pa Dha Ni 'Sa` | Yaman:<br>Aroha: `Sa Re Ga Ma' Pa Dha Ni 'Sa`<br>Avaroha: `'Sa Ni Dha Pa Ma' Ga Re Sa`          |
-| 3.  | Khamaj:<br>`Sa Re Ga Ma Pa Dha Ni_ 'Sa`          | Khamaj:<br>Aroha: `Sa Re Ga Ma Pa Dha Ni 'Sa`<br>Avaroha: `'Sa Ni_ Dha Pa Ma Ga Re Sa`          |
-| 4.  | Bhairava:<br>`Sa Re_ Ga Ma Pa Dha_ Ni 'Sa`       | Bhairava:<br>Aroha: `Sa Re_ Ga Ma Pa Dha_ Ni 'Sa`<br>Avaroha: `'Sa Ni Dha_ Pa Ma Ga Re_ Sa`     |
-| 5.  | Poorvi:<br>`Sa Re_ Ga Ma' Pa Dha_ Ni 'Sa`        | Poorvi:<br>Aroha: `Sa Re_ Ga Ma' Pa Dha_ Ni 'Sa`<br>Avaroha: `'Sa Ni Dha_ Pa Ma' Ga Re_ Sa`     |
-| 6.  | Marwa:<br>`Sa Re_ Ga Ma' Pa Dha Ni 'Sa`          | Marwa:<br>Aroha: `Sa Re_ Ga Ma' Dha Ni 'Sa`<br>Avaroha: `'Sa Ni Dha Ma' Ga Re_ Sa`              |
-| 7.  | Kaphi:<br>`Sa Re Ga_ Ma Pa Dha Ni_ 'Sa`          | Kaphi:<br>Aroha: `Sa Re Ga_ Ma Pa Dha Ni_ 'Sa`<br>Avaroha: `'Sa Ni_ Dha Pa Ma Ga_ Re Sa`        |
-| 8.  | Asawari:<br>`Sa Re Ga_ Ma Pa Dha_ Ni_ 'Sa`       | Asawari:<br>Aroha: `Sa Re Ma Pa Dha_ 'Sa`<br>Avaroha: `'Sa Ni_ Dha_ Pa Ma Ga_ Re Sa`            |
-| 9.  | Bhairavi:<br>`Sa Re_ Ga_ Ma Pa Dha_ Ni_ 'Sa`     | Bhairavi:<br>Aroha: `Sa Re_ Ga_ Ma Pa Dha_ Ni_ 'Sa`<br>Avaroha: `'Sa Ni_ Dha_ Pa Ma Ga_ Re_ Sa` |
-| 10. | Todi:<br>`Sa Re_ Ga_ Ma' Pa Dha_ Ni 'Sa`         | Todi:<br>Aroha: `Sa Re_ Ga_ Ma' Pa Dha_ Ni 'Sa`<br>Avaroha: `'Sa Ni Dha_ Pa Ma' Ga_ Re_ Sa`     |
+**Explanation:** -A Raga is a peculiar (fixed) combination of sounds beautified by the tonal excellence of 'Swara' and 'Varna' and having the property of pleasing the minds of the listeners.
+
+Raga is the distinctive feature of Indian music. The entire structure of Indian music rests on Ragas. In a word, the Raga system represents the Indian music.
+
+#### Essentials of Ragas
+
+(1) Ragas are derived from 'Thatas'. A Raga must belong to some 'Thata' or Parent scale.
+
+(2) A Raga to be legitimate must have five notes belonging to the scale from which it is derived. There can be no Raga unless it has five notes belonging to the scale from which it is produced.
+
+(3) A Raga must have a fixed ascent (Aroha) and a fixed descent (Avaroha). These two together make up a Raga. A mere ascent or a mere descent does not make a Raga. It cannot be recognised without ascent and descent. The ascent and descent are the basis upon which the whole embroidery of the Raga is developed. Therefore both ascent and descent are indispensable for a Raga.
+
+(4) A Raga must always take 'Sa' the fundamental note. No Raga is allowed to drop 'Sa' the fundamental note or the basic note.
+
+(5) A Raga must necessarily have musical value (Ranjakta) or aesthetic potentialities. It must be pleasing to the listeners. The term Raga is derived from the Sanskrit root 'Ranja' which means to please. Besides the very definition of Raga in Sanskrit has the words "Ranjako Jan Chittanam" which clearly shows that Ranjakta or sweetness is indispensable for a Raga.
+
+(6) A Raga must not take two notes of the same denomination consecutively. Two notes of the same denomination, i. e. sharps and flats of the same note such as 'Ga' sharp and 'Ga' flat or 'Ma' sharp and 'Ma' flat should not, as a general rule, come one after another in a Raga barring a few exceptions like Kedar, Poorvi, Lalit etc. If this is allowed to be done, it will mar the aesthetic value or sweetness (Ranjakta) of the Raga which is the main ingredient of a Raga.
+
+(7) A Raga must not drop 'Ma' and 'Pa' simultaneously. It must have atleast one of them. It may drop either 'Ma' or 'Pa' but not the two together simultaneously.
+
+(8) A Raga must have a fixed Vadi note. There can be no Raga without a Vadi note. Vadi note is the predomiment note of a Raga. It is the very life-note of a Raga. The entire beauty of a Raga hinges on its Vadi note. Hence Vadi note is indispensable for Raga.
+
+It may be noted here that our Ragas have been defined and described in terms of Swaras and not Shrutis. All the writers on music, ancient and modern, have invariably done so. Pandit Bhatkhande himself has explained all the Ragas in terms of the twelve Shuddha and Vikrit Swaras. Even the Sanskrit definition of Raga given above does not contain any reference to Shrutis. In fact, the function of Shrutis is just to measure the musical intervals between two consecutive notes and also to serve as a guide to the expression of various graces and embellishments of music.
+
+#### Jatis of Ragas
+The term 'Jati' connotes the number of notes that are used both in the ascent and descent of a Raga. Ragas have been broadly classified under three groups according to the number of notes that are used in their formation. These are known as 'Odava' (Pentatonic), 'Shadava' (Hexatonic) and (3) Sampurna (Heptatonic).
+
+**Odava Raga**-That Raga which takes only five notes both in the ascent and descent is called 'Odava Raga' or 'Pentatonic Raga', e.g. Bhoopali, Malkaus, Hindol etc.
+
+**Shadava Raga**-That Raga which takes only six notes both in the ascent and descent is called 'Shadava Raga' or 'Hexatonic Raga', e.g, Marwa, Pooriya etc.
+
+**Sampurna Raga**-That Raga which takes all the seven notes both in the ascent and descent is called 'Sampurna Raga' or 'Heptatonic Raga', e.g. Yaman, Bilawal etc.
+
+From the above it is clear that the three 'Jatis' of Ragas take five, six and seven notes respectively in their ascent and descent. But apart from the above three classes of Ragas there can also be other varieties of Ragas. There may be a Raga having all the seven notes in the ascent and only six notes in the descent for example 'Miyan Malhar'. Such a variety is known as a Raga of 'Sampurna-Shadava' Jati. Again there may be a Raga which may have six notes in the ascent and seven notes in the descent for example Raga 'Khamaj'. Such a variety is known as a Raga of 'Shadava-Sampurna' Jati. Thus the above mentioned three groups of Ragas can be further sub-divided into three groups of each in the following manner :-
+
+(1) **Sampurna**
+- Sampurna-Sampurna
+- Sampurna-Shadava
+- Sampurna-Odava
+
+(2) **Shadava**
+- Shadava-Sampurna
+- Shadava-Shadava
+- Shadava-Odava
+
+(3) **Odava**
+- Odava-Sampurna
+- Odava-Shadava
+- Odava-Odava
+
+**Sampurna-Sampurna**-Having seven notes both in the ascent and descent.
+**Sampurna-Shadava** - Having seven notes in the ascent and six notes in the descent.
+**Sampurna-Odava** -Having seven notes in the ascent and five notes in the descent.
+**Shadava-Sampurna** -Having six notes in the ascent and seven notes in the descent.
+**Shadava-Shadava** -Having six notes both in the ascent and descent.
+**Shadava-Odava** --Having six notes in the ascent and five notes in the descent.
+**Odava-Sampurna** -Having five notes in the ascent and seven notes in the descent.
+**Odava-Shadava** -Having five notes in the ascent and six notes in the descent.
+**Odava-Odava** -Having five notes both in the ascent and descent.

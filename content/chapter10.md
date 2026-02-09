@@ -1,29 +1,66 @@
 
 ## CHAPTER X
-### VADI, SAMVADI, ANUVADI and VIVADI NOTES
+### SHUDDHA and VIKRIT SWARA OR TEEVRA and KOMAL SWARA
 
-In Hindustani system of music four kinds of notes are used in a Raga, namely Vadi, Samvadi, Anuvadi and Vivadi notes. Every musician while singing a Raga has got to keep in mind the proper use of these four kinds of notes. A Raga has a fixed Vadi and a fixed Samvadi note. Leaving aside these two kinds of notes the remaining notes used in a Raga are called Anuvadi notes. The note which, as a rule, is not used in a Raga but is sometimes sparingly used for the sake of creating beauty in the Raga is called Vivadi note.
+It has already been stated that there are seven main notes or standard notes in Hindustani system of music known as "Sa Re Ga Ma Pa Dha Ni". These are known as 'Shuddha-Swaras' or 'Prakrit-Swaras'.
 
-#### VADI NOTE
-Vadi note is that note which is most frequently used in a Raga. It is the predominent note or the reigning note of a Raga. It is the very life-note of a Raga. Vadi note is recognised by the longest stoppage on it and by the frequent occurance of it. For example, the Vadi note of Raga Yaman is 'Ga'. The note 'Ga' is frequently used in this Raga and also frequent stoppage is made on it. For example: "`Ga, Re Sa, Ni. Re Ga, Pa Ma' Ga, Ma' Ga, Dha Pa Ma' Ga, Pa Re, Ga, Ni, Re Ga, Ga, Re, Sa.`" Here in Raga Yaman the note 'Ga' has been frequently used and also frequent stoppage has been made on it. Vadi note is considered as the very life-note of a Raga. Because the entire beauty of a Raga hinges on its Vadi note. Vadi note is commonly known as the predominent note, the main note, the life-note and the reigning note of a Raga. Vadi note is like a King or analogous to a King among of all the notes used in a Raga.
+**Shuddha-Swara**-The notes that stand on their originally fixed pitches or natural places in the scale are called 'Shuddha-Swaras', viz., 'Sa Re Ga Ma Pa Dha Ni'.
 
-The 'Vadi' note discharges two functions. It determines the name of a Raga, i.e., whether it is a Poorvangavadi Raga or an Uttarangavadi Raga and also the approximate time when the Raga has to be sung. In order to understand the dual function of the Vadi note it should be noted that all the Ragas have been divided into two main groups, namely, 'Poorva-Raga' and 'Uttar-Raga'. Poorva-Ragas are sung between mid-day and mid-night and Uttar-Ragas are sung between mid-night and mid-day. The Ragas falling under the first group (Poorva-Ragas) have their 'Vadi' note invariably in the first part of the Octave, viz., 'Sa Re Ga Ma Pa' and are called Poorvangavadi Ragas. The Ragas falling under the second group (Uttar-Ragas) have their vadi note invariably in the second part of the Octave, viz., 'Ma Pa Dha Ni 'Sa' and are called Uttarangavadi Ragas. Thus the location of Vadi note in a Raga enables us to determine as to whether a particular Raga is a Poorvangavadi Raga or an Uttarangavadi Raga. For example, Raga Yaman has got 'Ga' as its Vadi note. And the note 'Ga' belongs to the first-part of the Octave. Thus the Vadi note determines that Raga Yaman is a Poorva-Raga or a Poorvangavadi Raga and is sung between mid-day and mid-night. Further examining the notes of Raga Yeman we find that it belongs to the group of Ragas having both 'Re' and 'Dha' sharp (Teevra) which are sung between 7 and 10 in the night. Therefore we can safely say that Raga Yaman is sung in the first quarter of the night. Hence it is clear that 'Vadi' note determines the name of the Raga, i.e., Poorvangavadi Raga or Uttarangavadi Raga as well as the time for singing the Ragas.
+Out of these seven notes 'Sa' and 'Pa' are supposed to be constant or immutable. They do not become affected or changed. They remain fixed in their original pitches and are called 'Achala-Swaras'. The remaining five notes, viz., 'Re Ga Ma Dha Ni' are subject to change and are called 'Chala-Swaras'. When these five notes change their original places in the Scale, they are said to become 'Vikrit' or affected. Since 'Sa and Pa' do not change, therefore they are called 'Avikrit'.
 
-Vadi note has been compared to a King. Just as a King is necessary for a kingdom (may not be true these days) in the same way 'Vadi' note is indispensable for a Raga.
+**Vikrit-Swara**-The term 'Vikrit' means affected or changed and 'Vikrit-Swara' means changed note. When the 'Shuddha-Swaras' change their original pitches or natural places in the Scale, or when they are lowered or raised from their original pitches, they are said to become 'Vikrit'. For example, when the sound of 'Re Ga Dha Ni' these four notes is lowered from their original pitches or their natural places in the Scale, they become 'Vikrit' and are called 'Vikrit-Swaras'. In the same way, when the sound of Shuddha 'Ma' is raised from its original pitch or natural place in the Scale, it becomes 'Vikrit' and is called Vikrit 'Ma'.
 
-#### SAMVADI NOTE
-That note which is used in a Raga less frequently than the Vadi note but more frequently than the other notes of the Raga, is called 'Samvadi' note. In other words, Samvadi note is next in importance to the 'Vadi' note in a Raga. For example, in Raga Yaman 'Ni' is the Samvadi note and is used less frequently than 'Ga' the Vadi note.
+'Vikrits' are of two kinds: 'Komal-Vikrit' and 'Teevra-Vikrit'.
 
-Samvadi note is the consonant of the Vadi note. Both the notes are co-related to each other. The Samvadi is the representative of the Vadi in the other tetrachord. There exists a certain ratio between the notes of the two halves or tetrachords of the octave thus: `Sa : Pa`, `Re : Dha`, `Ga : Ni` and `Ma : 'Sa`. In other words, the notes of the second part of the octave 'Pa Dha Ni 'Sa' are the 'Samvadi' or the fifth of the notes 'Sa Re Ga Ma' in the first part of the octave. The musical interval between the corresponding notes of the second and first tetrachords of the octave is that of one-and-a-half (1½) in each case. If 'Ga' is Vadi in a Raga, 'Ni' will be its Samvadi, or if 'Re' is Vadi in a Raga, 'Dha' will be its Samvadi. But in certain Ragas where the fifth of the 'Vadi' note is deleted from a Raga, the fourth of the Vadi note is taken as its Samvadi. For example, in Raga Bhoopali 'Ga' is Vadi and 'Dha' is Samvadi. Since 'Ni' is deleted in this Raga, therefore 'Dha' the fourth note is taken as the Samvadi of 'Ga'. Hence 'Dha' the fourth note from 'Ga' is the Samvadi note in Bhoopali.
+**Komal-Vikrit**-When the sound of 'Re Ga Dha Ni' these four 'Shuddha' notes is lowered from their original pitches, they are called 'Komal' or 'Komal-Vikrit'.
 
-Samvadi note has been compared to a minister. It is analogous to the minister, second in power to the king, in order to carry on the administration of the state. Just as a minister occupies an important place, next to the king, in the administration of the state, in the same way the position of Samvadi note is next in importance to the Vadi note in a Raga.
+**Teevra-Vikrit**- When the sound of Shuddha 'Ma' is raised from its original pitch, it is called 'Teevra-Vikrit'.
 
-#### ANUVADI NOTE
-Leaving aside the Vadi and Samvadi notes the remaining notes of a Raga are called 'Anuvadi' notes. For example, in Raga Yaman 'Ga' is the Vadi note and 'Ni' is the Samvadi note. Now the remaining notes `Re Ma' Pa Dha` are called its Anuvadi notes. The Anuvadi notes are the followers of the Vadi and Samvadi notes. They work in collaboration with the Vadi and Samvadi notes. Because the Vadi and Samvadi notes alone cannot depict a Raga. If we just sing 'Ga' and 'Ni', all alone, in Raga Yaman, it will have no meaning and will not give any impression of the Raga. Therefore, Anuvadi notes also are very important in a Raga. Anuvadi notes have been compared to the servants of the State. Just as the king and the minister alone cannot manage to carry on the administration of the state without the help of other officials, in the same way the Vadi and Samvadi notes, all alone, cannot give any impression of the Raga without the help of the 'Anuvadi' notes.
+The following rules regarding 'Vikrit-Swaras' should be remembered :-
 
-#### VIVADI NOTE
-That note which, as a rule, is not used in a Raga but is sometimes sparingly used for the sake of creating beauty in the Raga, is called Vivadi note. For example, in Raga Bhairavi sometimes sharp (Teevra) 'Re' and sharp (Teevra) 'Ni' are used for creating beauty in the Raga. Similarly, in Raga Behag sometimes sharp (Teevra) 'Ma' is used for creating beauty in it. For example: `Ni Sa Ga Ma' Pa Ma' Ga Ma Ga`, or `Ni Dha Pa Ma' Ga Ma Ga`. It is, no doubt, true that Vivadi note creates beauty in a Raga. But it should be used very carefully and skilfully. If it is not used properly and skilfully, it is likely to spoil the beauty of the Raga, nay, it may create discord in it. That is why 'Vivadi' note has also been called as the enemy of a Raga. In fact, Vivadi note is not among the recognised notes of a Raga. Therefore, it should be sparingly used in a Raga and that also very skilfully and in a proper manner and at the proper place. For its improper use mars the beauty of the Raga. But its proper use is apt to enhance the beauty of the Raga.
+(1) 'Sa' and 'Pa' are called 'Achala' or 'Avikrit-Swaras'. They do not become changed or affected. They remain constant and immutable in their original pitches in the Scale.
 
-It must be noted here that Vivadi note is not the same as the disallowed note or the omitted note (Varjit Swara) of a Raga. The Vivadi note is used to beautify a Raga, while the disallowed note (Varjit Swara) is never used in a Raga.
+(2) 'Re Ga Dha Ni' these four notes are subject to change. When their sound is lowered from their original pitches in the Scale, they become 'Vikrit' and on becoming 'Vikrit' they are called 'Komal' or flat notes.
 
-As already stated above the Vadi note is the king or the predominent note or the reigning note of a Raga. The Samvadi note is like a minister to the king or the note next in importance to the Vadi note. Anuvadi notes are like the servants of the king and the minister and help Vadi and Samvadi notes in singing a Raga. The Vivadi note is the enemy-note in a Raga. It produces discord. But it is sometimes sparingly used for creating beauty in the Raga.
+(3) The note 'Ma' also is subject to change. When the sound of 'Ma' is raised from its original pitch in the Scale, it becomes 'Vikrit' and on becoming 'Vikrit' it is called 'Teevra' 'Ma' or sharp 'Ma'.
+
+**Teevra-Swara**-'Teevra-Swara' ordinarily means 'Shuddha-Swara'. The Shuddha notes, excepting Shuddha 'Ma', which are fixed in their original pitches or natural places in the Scale are called 'Teevra-Swaras' or Sharp notes.
+
+**Komal-Swara**-When 'Shudda-Swaras' or Shuddha notes are lowered from their original pitches or natural places in the Scale, they are called 'Komal-Swaras' or flat notes.
+
+It may be noted here that when the sound of 'Shuddha-notes' is lowered from their original pitches, they become 'Komal-Swaras', Now when the sound of these lowered notes is again raised to their natural pitches, they become 'Teevra-Swaras'. For example, if we lower the sound of 'Re Ga Dha Ni' these four notes from their original pitches, they will become 'Komal-Swaras' or flat notes. And if we again raise the sound of these lowered notes to their original pitches, they will become 'Teevra-Swaras' or sharp notes. But it must be particularly noted here that when the sound of Shuddha 'Ma' or Komal 'Ma' is raised from its original pitch it becomes Teevra 'Ma' or sharp 'Ma'. This is the special case with Shuddha 'Ma'. Because the original pitch or the natural place of Shuddha 'Ma' in the Scale is that of a Komal-Swara or flat note. Although 'Ma' is reckoned among the Shuddha-Swaras and is called Shuddha 'Ma' but its natural position in the Scale is like a Komal 'Ma' or flat 'Ma'. While the position of 'Re Ga Dha Ni' these four notes in the Scale is like Teevra-Swaras or sharp notes.
+
+As a matter of fact Shuddha-Swara means the same as Teevra-Swara. All the Shuddha-Swaras, except Shuddha 'Ma', are also called Teevra-Swaras. In other words, leaving aside Shuddha 'Ma' the remaining Shuddha notes 'Re Ga Dha Ni' are also known as Teevra-Swaras. But Shuddha 'Ma' is known as Komal 'Ma'. Then again 'Vikrit' Swara means Komal Swara. Thus leaving aside Komal 'Ma' all the remaining 'Vikrit' Swaras, viz., 'Re_ Ga_ Dha_ Ni_' are called Komal-Swaras. But Vikrit 'Ma' is called Teevra 'Ma'. In a word, Teevra Swaras are also called Shuddha Swaras and Komal Swaras are also called 'Vikrit Swaras'. But Komal 'Ma' is called Shuddha 'Ma' and Teevra 'Ma' is called Vikrit 'Ma'. In English language Komal Swaras are called flat notes and Teevra Swaras are called sharp notes. In common parlance and in Hindi language Teevra Swaras are called Chadhe-Swaras and Komal Swaras are called Utre-Swaras.
+
+From the above description it is clear that there are seven Shuddha Swaras and five Vikrit Swaras. Thus we have in all a series of twelve notes in an Octave thus: `Sa Re_ Re Ga_ Ga Ma Ma' Pa Dha_ Dha Ni_ Ni`. All these twelve notes are used in our Raga system.
+
+The Shuddha and Vikrit Swaras or sharp and flat notes are expressed in writing by means of certain symbols. Shuddha Swaras or sharp notes do not require any symbols to identify them. Komal-Swaras are indicated by putting a short horizontal line or a dash below the notes such as `Re_ Ga_ Dha_ Ni_`. Teevra 'Ma' or sharp 'Ma' is indicated by a short perpendicular line over it, e. g., `Ma'`.
+
+**Table showing the Shuddha and Vikrita Swaras of Hindustani system of music together with their Shrutis**
+
+| No. | Shrutis | Shuddha-Swara | Vikrita-Swara |
+| :-- | :--- | :--- | :--- |
+| 1. | Teevra | 'Sa' (Achala) | |
+| 2. | Kumudwati | | |
+| 3. | Manda | | |
+| 4. | Chhandowati | | 'Re' (Komal) |
+| 5. | Dayawati | 'Re' (Teevra) | - |
+| 6. | Ranjani | | - |
+| 7. | Raktika | | 'Ga' (Komal) |
+| 8. | Roudri | 'Ga' (Teevra) | |
+| 9. | Krodhi | | |
+| 10. | Vajrika | 'Ma' (Komal) | |
+| 11. | Prasarini | - | |
+| 12. | Preeti | - | 'Ma' (Teevra) |
+| 13. | Marjini | 'Pa' (Achala) | |
+| 14. | Kshiti | | |
+| 15. | Rakta | | |
+| 16. | Sandeepini | | 'Dha' (Komal) |
+| 17. | Alapini | | |
+| 18. | Madanti | 'Dha' (Teevra) | |
+| 19. | Rohini | | |
+| 20. | Ramya | | 'Ni' (Komal) |
+| 21. | Ugra | 'Ni' (Teevra) | |
+| 22. | Kshobhini | | |
+
+**Note:**- The rule for obtaining Vikrit Swaras is that if two Shrutis are added to every Shuddha Swara, the Vikrit Swara coming after it will be obtained. For example if we add two Shrutis to Shuddha 'Re', which stands on the 5th Shruti, we will get the position of Vikrit 'Ga', coming just after Shuddha 'Re', on the 7th Shruti. And this is the correct position of Vikrit 'Ga'. Again if we add two Shrutis to Shuddha 'Ma' which stands on the 10th Shruti, we will get the position of Vikrit 'Ma', which comes just after Shuddha 'Ma', on the 12th Shruti. And this is the correct position of Vikrit 'Ma' or Teevra 'Ma'. Similarly other 'Vikrit' Swaras can be obtained by applying this rule.

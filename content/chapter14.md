@@ -1,89 +1,28 @@
 
 ## CHAPTER XIV
-### The Notation Systems of Pt. Bhatkhande and Pt. Vishnudigamber
+### A Short History of the Notation System of Indian Music
 
-There are, at present, two different Notation Systems prevalent in Hindustani System of Music popularly known as Bhatkhande-Notation-System and Vishnudigamber-Notation-System.
+The art of describing musical ideas in written characters is called Notation. It is a system of writing a song or Gat in Swara and Tala. If the words of a song or the Boles of a Gat are written in Swara and Tala, it will be called the notation of that song or Gat. If the Alap of a Raga is written in musical characters, it will be called the notation of that Alap. Similarly, if a Tala is written with its Boles, Matras Tala-marks etc., it will be called the notation of that Tala.
 
-#### Bhatkhande-Notation-System
-In Hindustani System of Music there are seven principal notes known as Shadja, Rishabha Gandhara, Madhyam, Pancham, Dhaivata and Nishada. These are designated by their initial syllables as 'Sa Re Ga Ma Pa Dha Ni' and are called 'Shuddha-Swaras'. The two notes 'Sa' and 'Pa' are supposed to be constant. They do not change their fixed places. The remaining five notes, viz., 'Re Ga Ma Dha Ni' are subject to change. Four of these, viz., 'Re Ga Dha Ni' become flat or Komal and the remaining one note, i.e., 'Ma', which is already flat or Komal, becomes sharp or Teevra. Thus, including the Vikrits of the five notes 'Re Ga Ma Dha Ni', there are in all twelve notes known as `Sa Re_ Re Ga_ Ga Ma Ma' Pa Dha_ Dha Ni_ Ni`.
+The notation system had been in existence in our country ever since the time of Panini, about 500 B. C., the famous Grammarian. According to Sir William Wilson Hunter, "A regular system of notation had been worked out before the age of Panini...............and the seven notes were designated by their initial letters. This notation passed from the Brahmins through the Persians to Arabia, and was thence introduced into European music by Guido d' Arezzo at the beginning of the 11th century". - 'Imperial Gazetteer of India' by W.W. Hunter.
 
-(1) **Sharp-notes** or Shuddha-Swaras, excluding sharp or Teevra 'Ma', do not require any symbol to indicate them as sharp or Shuddha notes.
+It is well known that our music has recourse to the three Octaves known as Mandra (Lower), Madhya (Middle) and Tara (Higher). Our ancient writers used certain symbols to represent the notes of the said three Octaves. Pandit Sharangdeva, the author of the famous treatise entitled 'Sangeeta Ratnakara', has indicated the notes of the lower Octave (Mandra Saptak) and the higher Octave (Tara Saptak) by putting a dot and a short perpendicular line respectively at the top of the initial letters of the notes. For example, "`'Ma 'Pa 'Dha 'Ni`" indicate the notes of the lower Octave and "`'Sa 'Re 'Ga`" indicate the notes of the higher Octave. The Boles or the words of a song which had to be prolonged were indicated by putting the sign of a Zero "O" after the words to indicate stoppage on them. For example, "**हर O मु O**" which indicated stoppage after 'Har' and 'Mu'. And when a note had to be pronounced in one Matra, one unit of time, it was written thus: '**गा पा धा**'. This indicated one note in one Matra time-duration or in one unit of time. And when two or three notes were pronounced in one Matra, they were written thus: `प ध`, `प ध नि` respectively. In other words, `गा पा धा` each of these notes indicated one note in one Matra, `प ध` indicated two notes in one Matra and `प ध नि` indicated three notes in one Matra.
 
-(2) **Flat notes** or Komal-Swaras, excluding flat (Komal) 'Ma', are identified by putting a small horizontal line or a dash below the notes, e.g., `Ga_ Dha_ Ni_`. These are flat or Komal notes. Flat (Komal) 'Ma' does not have any such sign.
+The ancient writers did not have any separate symbols to denote sharp and flat (Teevra and Komal) notes of the Octave. Because, they held that when the notes of a Thata were laid down and the Ragas coming under them were enumerated, there was no need to symbolise again the sharp and flat notes of the Raga. For example, if a Raga belonged to a particular Thata having 'Ga' and 'Ni' Komal (flat), it was presumed that the notes coming into the Raga would be Komal (flat) and there was no need to further symbolise the said two Komal (flat) notes.
 
-(3) **Sharp or Teevra 'Ma'** is identified by a short perpendicular line over it, e.g., `Ma'`.
+Later on, in the seventeenth century when Pt. Vyankatamakhi expounded the 72 Thatas (Melakartas), he Introduced certain new signs and conventional letters to denote his Shuddha and Vikrit Swaras (sharp and flat notes). He used the symbols 'अ', 'इ' and 'उ' to indicate them. He wrote his Komal (flat) 'रे' as 'र', Teevra (sharp) 'रे' as 'रि', Komal (flat) 'ग' as 'ग' and Teevra (sharp) 'ग' as 'गि'. He wrote his three 'Rishabhas', viz., Shuddha 'रे' (our Komal (flat) 'रे') as 'र', Panch-Shruti 'रे' (our Komal (flat) 'ग') as 'रि' and Shat-Shruti 'रे' (our Komal (flat) 'ग') as 'रु'. Similarly, he wrote his three Gandharas as 'ग', 'गि' and 'गु', his three Dhaivatas as 'ध', 'धि' and 'धु' and his three Nishadas as 'न', 'नि' and 'नु'. Thus, we find that in the 17th century there was some improvement in this direction.
 
-(4) The notes of '**Mandra-Saptak**' or the Lower-Octave are symbolised by putting a dot below those notes, e.g., `Pa. Dha. Ni.`.
+Our ancient writers were also aware of the importance of Tala and had certain symbols to write the Talas in Tala-notation. They used the following six symbols for the purpose:-
 
-(5) The notes of **Madhya-Saptak** or the Middle-Octave have no such signs, e.g., 'Ga Ma Pa Dha'.
+| No. | Symbol | Name | Matra-Duration |
+| :-- | :--- | :--- | :--- |
+| 1. | ऽ | Anudrut | One Matra |
+| 2. | 0 | Drut | Two Matras |
+| 3. | । | Laghu | Four Matras |
+| 4. | S | Guru | Eight Matras |
+| 5. | 3 | Plut | Twelve Matras |
+| 6. | + | Kakpad | Sixteen Matras |
 
-(6) The notes of **Tar-Saptak** or Higher Octave are symbolised by putting a dot over those notes, e.g., `'Sa 'Re 'Ga`.
+Today we have a fully developed form of notation system. There are, at present, two different notation systems prevalent in 'Hindustani system of music' known as 'Bhatkhande notation system' and 'Vishnudigambar notation system'.
 
-(7) The notes which have the **sign of a Tie** `___` below them indicates that the notes are to be pronounced in one Matra or one unit of time. For example, `GaMa`, `MaPaDha`, `PaDhaNiSa` these indicate that 'Ga Ma' the two notes are to be pronounced in one unit of time, 'Ma Pa Dha' these three notes in one unit of time and 'Pa Dha Ni Sa' these four notes in one Unit of time. In other words, to pronounce the notes `GaMa`, given in a 'Tie', 'Ga' will be pronounced in ½ unit of time and 'Ma' in another ½ unit of time. Similarly, in case of `MaPaDha` given in a 'Tie', 'Ma' will be pronounced in ⅓ unit of time, 'Pa' in ⅓ unit of time and then 'Dha' in ⅓ unit of time.
-
-(8) The sign `︵` indicates '**Meend**'. When this sign is put over the notes `Ga Ma Pa` in this way, then the notes are pronounced gracefully through 'Meend' or glide without silencing the voice.
-
-(9) The sign **-** indicates **pause**. When this sign is put after a note like this 'Ma-', then after pronouncing 'Ma' pause will be made, i.e., 'Ma' will be pronounced in one unit of time and then a pause will be made for another one unit of time.
-
-(10) When this sign **S** is put after the 'Bole' of a song, then that 'Bole' is prolonged for as many units of time as there are such signs, For example, 'MO S'. Here, the Bole 'MO' will be pronounced in one unit of time and then it will be prolonged for another one unit of time.
-
-(11) `<sup>Ma</sup>Pa`-When a neighbouring note, higher or lower, is attached to the main note, it is called **grace-note or 'Kan'**. For example, `<sup>Ma</sup>Pa`. Here, 'Ma' is the grace-note or 'Kan' on 'Pa'. Therefore, before pronouncing 'Pa' a slight touch of 'Ma' the grace-note will have to be made.
-
-(12) **(Pa)** - When a note is put within two brackets as '(Pa)' it means that 'Pa' will be pronounced twice quickly touching its higher and lower neighbouring notes. In other words, at first the higher neighbouring note 'Dha' will be pronounced, then 'Pa' will be pronounced, then 'Ma' the lower neighbouring note will be pronounced and then again 'Pa' will be pronounced. For example, '`Dha Pa Ma Pa`' or `<sup>Dha Ma</sup>Pa Pa` these notes will be pronounced in quick tempo.
-
-(13) The **sign of 'Comma'** indicates very slight stoppage. For example `Dha Ni Sa, Dha Ni`. Here, there are five notes in one unit of time. Therefore, 'Dha Ni Sa' these three notes will be pronounced in ½ unit of time and 'Dha Ni' the remaining two notes in another ½ unit of time.
-
-(14) **'^'** - This is a sign of '**Gamaka**'. For example, `^Ga ^Ga`. Here, 'Ga Ga' these two notes will be pronounced through 'Gamak'.
-
-(15) '**X**'-This sign indicates the '**Sam**' of a Tala or 'Gat'. In other words, the starting point of a Tala or Song. The 'Sam' is shown with some force or emphasis, over and over again, after every Alap or 'Tan'. 'Sam' is also the concluding place of a song or Gat.
-
-(16) '**O**' - The sign of Zero indicates the **no-beat or 'Khali'** of a Tala, i.e., the place of a Tala where there is no beat.
-
-(17) **Figures 1, 2, 3 and 4** in a Tala indicate the first, second, third and fourth beat of a Tala.
-
-#### Vishnudigamber Notation System
-(1) **Sharp notes** or Shuddha-Swaras, excluding Teevra 'Ma', do not require any sign to indicate them as sharp or Shuddha notes, e.g., 'Ga, Dha, Ni'.
-
-(2) **Flat notes** or Komal-Swaras, excluding Komal 'Ma', are identified by putting a sign or attaching a sort of symbol under the notes, e.g., `Dha_ Ni_ Dha_` or `Ga_ Re_ Ga_`.
-
-(3) The notes of the **lower Octave** or Mandra Saptak are indicated by putting a dot over them, e.g., `'Pa 'Dha 'Ni 'Dha 'Pa`.
-
-(4) No symbol is required for indicating the notes of the **Middle Octave** or Madhya-Saptak, e.g., 'Ma Pa Dha Ni Dha Pa'.
-
-(5) The notes of the **higher Octave** or Tara-Saptak are indicated by putting a short perpendicular line over the notes, e.g., `Ma| Pa| Dha|`.
-
-(6) To indicate the notes to be pronounced in **one unit of time** a 'Dash' is put under the notes, e.g., `Ga- Ma- Pa- Dha-`.
-
-(7) To indicate the notes to be pronounced in **two units of time** a kind of symbol such as this `~` is put under the notes, e.g., `Ga~ Ma~ Pa~ Dha~`.
-
-(8) For indicating the notes of **½ unit time** a Zero-like sign is put under the notes, e.g., `GaO MaO PaO`.
-
-(9) For indicating the notes of **¾ unit of time** a sort of Tie is put under the notes, e.g., `(Dha Pa Ma)`. (Symbol is a single tie `︶`).
-
-(10) For indicating the notes of **⅛ unit of time** two Ties are put under the notes, e.g., `(Ga Ma Pa)`. (Symbol is two ties `︶︶`).
-
-(11) For indicating the notes of **⅓ unit of time** a symbol like this ` V ` is put under the notes, e.g., `GaV ReV SaV`.
-
-(12) To indicate the notes of **⅙ unit of time** two signs of this kind `VV` are put under the notes, e.g., `GaVV ReVV SaVV`.
-
-(13) To prolong the notes or to make a pause on the notes a kind of symbol like this **S** is put after the notes, e.g., '`Ga S Ma S`'.
-
-(14) To prolong the Boles or the words of a song some dots are put after the notes, e.g., '`Ja... Ja....`'.
-
-(15) The sign of **Comma** indicates pause after pronouncing the notes, e.g., "`Sa, Re, Ga`".
-
-(16) '**।**' This kind of sign indicates the end of one round of a song.
-
-(17) '**।।**' This kind of sign indicates the end of the 'Sthai' or the first part of a song.
-
-(18) '**।।।**' This kind of symbol indicates the end of the entire song.
-
-(19) `<sup>Ma</sup>Pa` This indicates that there is the '**Kan**' or grace note of 'Ma' over 'Pa'.
-
-(20) `︵` This is the sign of '**Meend**', e.g., over `Dha Ni Sa`. This indicates that 'Dha Ni Sa' these three notes are to be pronounced through 'Meend'.
-
-(21) '**१**' The sign of the '**Sam**' or the principal beat of a Tal or a song.
-
-(22) '**+**' The sign of '**no-beat**' of a Tal, i.e., there is no beat of the Tal on that place.
-
-**Note** :-It may be said here that the notation system of Pt. Bhatkhande is easy and simple and can be easily understood by one and all. Not only this, but it is also followed by most of the musicians as well as the students of music.
+---
