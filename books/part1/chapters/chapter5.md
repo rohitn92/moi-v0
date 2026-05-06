@@ -69,43 +69,31 @@ This principle of locating the Shuddha-Swaras on the 'Shrutis' has been followed
 
 **Table showing the location of notes of the ancient and modern writers on the twenty-two 'Shrutis'.**
 
-| Shruti-Swara location of the Ancient Writers | Shruti-Swara location of the Modern Writers |
-| :--- | :--- |
-| **No.** **Shruti-names** **Swara-names** | **No.** **Shruti-names** **Swara-names** |
-| 1 Teevra | 1 Teevra |
-| 2 Kumudwati | 'Sa' |
-| 3 Manda | 2 Kumudwati |
-| 4 Chhandowati | 3 Manda |
-| 5 Dayawati | 'Sa' |
-| 6 Ranjani | 4 Chhandowati |
-| 7 Raktika | 5 Dayawati |
-| 8 Roudri | 'Re' |
-| 9 Krodhi | 6 Ranjani |
-| 10 Vairika | 7 Raktika |
-| 11 Prasarini | 'Ga' |
-| 12 Preeti | 8 Roudri |
-| 13 Marjani | 9 Krodhi |
-| 14 Kshiti | 'Ga' |
-| 15 Rakta | 10 Vajrika |
-| 16 Sandeepini | 'Ma' |
-| 17 Alapini | 11 Prasarini |
-| 18 Madanti | 12 Preeti |
-| 19 Rohini | 13 Marjani |
-| 20 Ramya | 'Ma' |
-| 21 Ugra | 14 Kshiti |
-| 22 Kshobhini | 'Pa' |
-| | 15 Rakta |
-| | 16 Sandeepini |
-| | 'Pa' |
-| | 17 Alapani |
-| | 'Dha' |
-| | 18 Madanti |
-| | 19 Rohini |
-| | 'Dha' |
-| | 20 Ramya |
-| | 'Ni' |
-| | 21 Ugra |
-| | 22 Kshobini |
+| | Shruti-Swara location of the Ancient Writers | | Shruti-Swara location of the Modern Writers |
+| --- | --- | --- | --- |
+| **No.** | **Shruti-names & Swara-names** | **No.** | **Shruti-names & Swara-names** |
+| 1 | Teevra | 1 | Teevra *'Sa'* |
+| 2 | Kumudwati | 2 | Kumudwati |
+| 3 | Manda | 3 | Manda |
+| 4 | Chhandowati *'Sa'* | 4 | Chhandowati |
+| 5 | Dayawati | 5 | Dayawati *'Re'* |
+| 6 | Ranjani | 6 | Ranjani |
+| 7 | Raktika *'Re'* | 7 | Raktika |
+| 8 | Roudri | 8 | Roudri *'Ga'* |
+| 9 | Krodhi *'Ga'* | 9 | Krodhi |
+| 10 | Vairika | 10 | Vairika *'Ma'* |
+| 11 | Prasarini | 11 | Prasarini |
+| 12 | Preeti | 12 | Preeti |
+| 13 | Marjani *'Ma'* | 13 | Marjani |
+| 14 | Kshiti | 14 | Kshiti *'Pa'* |
+| 15 | Rakta | 15 | Rakta |
+| 16 | Sandeepini | 16 | Sandeepini |
+| 17 | Alapini *'Pa'* | 17 | Alapini |
+| 18 | Madanti | 18 | Madanti *'Dha'* |
+| 19 | Rohini | 19 | Rohini |
+| 20 | Ramya *'Dha'* | 20 | Ramya |
+| 21 | Ugra | 21 | Ugra *'Ni'* |
+| 22 | Kshobhini *'Ni'* | 22 | Kshobhini |
 
 **NOTE**- A glance at the comparative table showing the location of 'Shuddha' notes of the ancient and modern writers will clearly show that the position of the seven 'Shuddha' notes of the modern writers are quite different from those of the ancient writers. The reason is that the ancient writers fix their 'Swaras' on the ultimate 'Shruti' while the modern writers fix their 'Swaras' on the first 'Shruti'. For example, the 'Sa' of the modern writers is on the first Shruti while the 'Sa' of the ancient writers is on the fourth 'Shruti'.
 

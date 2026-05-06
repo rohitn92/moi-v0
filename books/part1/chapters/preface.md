@@ -13,5 +13,5 @@ The book can also be read with benefit by all the lovers of music.
 
 The author will be glad to receive, from the users of this book, any comments or suggestions to improve the value of the book.
 
-28th March, 1992
+28th March, 1998
 V. S. NIGAM
