@@ -284,7 +284,7 @@
             // In a real environment, you would fetch this from a server.
             // For this example, we'll simulate a fetch from a local file.
             // This will fail in a sandboxed environment, but the logic is sound.
-            const filePath = `content/${chapterId}.md`;
+            const filePath = `books/part1/chapters/${chapterId}.md`;
             const chapterTitle = clickedElement.textContent;
             currentChapterIndex = chapterOrder.indexOf(chapterId);
 
@@ -387,7 +387,7 @@
         // --- Initialization ---
         async function initializeReader() {
             try {
-                const response = await fetch('chapters.json');
+                const response = await fetch('books/part1/chapters.json');
                 if (!response.ok) {
                     throw new Error('Could not load chapters.json');
                 }
