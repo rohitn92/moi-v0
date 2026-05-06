@@ -23,7 +23,7 @@ Still another view is that a German family known as Triffenbruckers used to manu
 
 Thus, from the above description it is clear that although it cannot be said with certainty as to which particular individual invented Violin but it can be definitely said, without doubt, that Violin was first invented in Europe as a modified form of Voil in the middle of the 16th century and was then current in Italy.
 
-
+![Violin Diagram](/books/part1/images/ch13-violin-diagram.png)
 
 **Labels from Violin Diagram:**
 * TAIL PIECE
