@@ -177,6 +177,10 @@
             border-radius: 0 0 50% 50% / 0 0 4px 4px;
             padding: 0 2px 2px;
         }
+        .kan {
+            font-size: 0.7em;
+            vertical-align: super;
+        }
         .content-prose pre {
             white-space: pre-wrap;
             word-wrap: break-word;
@@ -376,7 +380,8 @@
                     .replace(/\{vv:([^}]+)\}/g, '<span class="soot-double">$1</span>')
                     .replace(/\{v:([^}]+)\}/g, '<span class="soot">$1</span>')
                     .replace(/\{-:([^}]+)\}/g, '<span class="toda">$1</span>')
-                    .replace(/\{([^}]+)\}/g, '<span class="meend">$1</span>');
+                    .replace(/\{([^}]+)\}/g, '<span class="meend">$1</span>')
+                    .replace(/\[([^\]]+)\]/g, '<span class="kan">$1</span>');
                 mobileHeaderTitle.textContent = chapterTitle;
 
                 // Wrap tables for horizontal scrolling on mobile

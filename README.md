@@ -62,6 +62,7 @@ Applied to groups of notes to indicate ornamentation or rhythmic grouping:
 | `{v:Ga Ma Pa}` | `.soot` | arc below |
 | `{vv:Ga Ma Pa}` | `.soot-double` | double arc below |
 | `{-:Ga Ma Pa}` | `.toda` | dashed bracket below |
+| `[Ma]Pa` | `.kan` | Ma as small superscript grace note before Pa |
 
 These can contain any note text, including modifiers. Curly braces have no special meaning in Markdown so they pass through `marked.js` untouched.
 
