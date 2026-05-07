@@ -153,6 +153,30 @@
             font-weight: bold;
             line-height: 1;
         }
+        .meend {
+            display: inline-block;
+            border-top: 2px solid currentColor;
+            border-radius: 50% 50% 0 0 / 5px 5px 0 0;
+            padding: 2px 2px 0;
+        }
+        .soot {
+            display: inline-block;
+            border-bottom: 2px solid currentColor;
+            border-radius: 0 0 50% 50% / 0 0 5px 5px;
+            padding: 0 2px 2px;
+        }
+        .soot-double {
+            display: inline-block;
+            border-bottom: 5px double currentColor;
+            border-radius: 0 0 50% 50% / 0 0 7px 7px;
+            padding: 0 2px 3px;
+        }
+        .toda {
+            display: inline-block;
+            border-bottom: 2px dashed currentColor;
+            border-radius: 0 0 50% 50% / 0 0 4px 4px;
+            padding: 0 2px 2px;
+        }
         .content-prose pre {
             white-space: pre-wrap;
             word-wrap: break-word;
@@ -191,11 +215,15 @@
             
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
                 <!-- Book 1 -->
-                <a href="#" class="book-card block p-6 rounded-lg border cursor-pointer" style="background-color: var(--bg-secondary); border-color: var(--border-color);" onclick="showReaderView()">
+                <div class="book-card p-6 rounded-lg border flex flex-col" style="background-color: var(--bg-secondary); border-color: var(--border-color);">
                     <div class="h-48 rounded-md mb-4 flex items-center justify-center bg-[#DDAB52]/20"><span class="font-bold text-lg" style="color: var(--text-primary);">Part I</span></div>
                     <h3 class="font-semibold text-lg">Musicology of India: Part I</h3>
-                    <p class="text-sm mt-1">Available Now</p>
-                </a>
+                    <p class="text-sm mt-1 mb-4">Available Now</p>
+                    <div class="flex flex-col gap-2 mt-auto">
+                        <button onclick="showReaderView()" class="w-full py-2 px-3 rounded-md text-sm font-semibold" style="background-color: var(--bg-accent); color: var(--bg-secondary);">Read Now</button>
+                        <a href="/books/part1/Part1.pdf" target="_blank" class="w-full py-2 px-3 rounded-md text-sm font-semibold text-center" style="border: 1.5px solid var(--border-color); color: var(--text-primary);">View PDF</a>
+                    </div>
+                </div>
                 <!-- Other books -->
                 <div class="book-card p-6 rounded-lg border opacity-60" style="background-color: var(--bg-secondary); border-color: var(--border-color);"><div class="h-48 rounded-md mb-4 flex items-center justify-center bg-[#FB9802]/20"><span class="font-bold text-lg" style="color: var(--text-primary);">Part II</span></div><h3 class="font-semibold text-lg">Musicology of India: Part II</h3><p class="text-sm mt-1">Coming Soon</p></div>
                 <div class="book-card p-6 rounded-lg border opacity-60" style="background-color: var(--bg-secondary); border-color: var(--border-color);"><div class="h-48 rounded-md mb-4 flex items-center justify-center bg-[#CF5C09]/20"><span class="font-bold text-lg" style="color: var(--text-primary);">Part III</span></div><h3 class="font-semibold text-lg">Musicology of India: Part III</h3><p class="text-sm mt-1">Coming Soon</p></div>
@@ -344,7 +372,11 @@
                     .replace(/\b(Sa|Re|Ga|Ma|Pa|Dha|Ni)_/g, '<u>$1</u>')
                     .replace(/(?<!')\b(Sa|Re|Ga|Ma|Pa|Dha|Ni)'(?!')/g, '<span class="teevra">$1</span>')
                     .replace(/(?<!')'(Sa|Re|Ga|Ma|Pa|Dha|Ni)(?!')/g, '<span class="tara">$1</span>')
-                    .replace(/\b(Sa|Re|Ga|Ma|Pa|Dha|Ni)\./g, '<span class="mandra">$1</span>');
+                    .replace(/\b(Sa|Re|Ga|Ma|Pa|Dha|Ni)\./g, '<span class="mandra">$1</span>')
+                    .replace(/\{vv:([^}]+)\}/g, '<span class="soot-double">$1</span>')
+                    .replace(/\{v:([^}]+)\}/g, '<span class="soot">$1</span>')
+                    .replace(/\{-:([^}]+)\}/g, '<span class="toda">$1</span>')
+                    .replace(/\{([^}]+)\}/g, '<span class="meend">$1</span>');
                 mobileHeaderTitle.textContent = chapterTitle;
 
                 // Wrap tables for horizontal scrolling on mobile

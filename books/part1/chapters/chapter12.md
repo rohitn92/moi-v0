@@ -35,7 +35,7 @@ Tanas are sung in Khyal, Tappa, Thumri and in every other kinds of songs. But Ta
 **Alankarik - Tana** - A 'Tana' which is composed of 'Alankars' or 'Paltas', is called 'Alankarik-Tana'. For example,
 `Sa Re Sa Ga Re Sa, Ni. Sa Ni. Re Sa Ni., Dha. Ni. Dha. Sa Ni. Dha., Pa. Dha. Pa. Ni. Dha. Pa., Ma Pa Ma Dha Pa Ma, Ga Ma Ga Pa Ma Ga, Re Ga Re Ma Ga Re, Sa Re Sa Ga Re Sa.`
 
-**Meend**-'Meend' is defined as a graceful transition from one note to another without silencing the voice or without breaking the continuity of sound. In other words, to connect two, three or four notes gracefully without breaking the continuity of voice or sound is called 'Meend'. For example, a Meend over `'Dha 'Ni 'Sa`. Here, these three notes are to be pronounced or connected gracefully without silencing the voice. In Sitar when two, three or four notes are played by striking the wire and pulling it up to the desired note, smoothly and gracefully without breaking the continuity of sound, it is called 'Meend'. For example, a Meend over `Ga Ma Pa`. In order to play `Ga Ma Pa` through Meend we will at first place the left hand finger on the fret of 'Ga', then will strike the main wire with the right hand finger having a plectrum (Mizrab) and produce the sound of 'Ga' and then will pull the wire smoothly on the fret of 'Ga' until it reaches the sound of 'Pa' without breaking the continuity of sound and at the same time sounding 'Ma' the intermediary note. In this way `Ga Ma Pa` is shown through 'Meend'. This kind of 'Meend' has the upward movement. Another kind of 'Meend' has a downward movement. For example, a Meend from `Pa` to `Ga`. In this 'Meend' we first pull the main wire with the left hand finger on the fret of 'Ga' up to the sound of 'Pa', then we strike the wire with the plectrum and produce the sound of 'Pa' and then move the wire smoothly and gracefully up to 'Ga' without breaking the continuity of sound. Thus, `Pa` to `Ga` is produced through 'Meend'.
+**Meend**-'Meend' is defined as a graceful transition from one note to another without silencing the voice or without breaking the continuity of sound. In other words, to connect two, three or four notes gracefully without breaking the continuity of voice or sound is called 'Meend'. For example, a Meend over {Dha Ni 'Sa}. Here, these three notes are to be pronounced or connected gracefully without silencing the voice. In Sitar when two, three or four notes are played by striking the wire and pulling it up to the desired note, smoothly and gracefully without breaking the continuity of sound, it is called 'Meend'. For example, a Meend over {Ga Ma Pa}. In order to play {Ga Ma Pa} through Meend we will at first place the left hand finger on the fret of 'Ga', then will strike the main wire with the right hand finger having a plectrum (Mizrab) and produce the sound of 'Ga' and then will pull the wire smoothly on the fret of 'Ga' until it reaches the sound of 'Pa' without breaking the continuity of sound and at the same time sounding 'Ma' the intermediary note. In this way {Ga Ma Pa} is shown through 'Meend'. This kind of 'Meend' has the upward movement. Another kind of 'Meend' has a downward movement. For example, {Pa Ga}. In this 'Meend' we first pull the main wire with the left hand finger on the fret of 'Ga' up to the sound of 'Pa', then we strike the wire with the plectrum and produce the sound of 'Pa' and then move the wire smoothly and gracefully up to 'Ga' without breaking the continuity of sound. Thus, {Pa Ga} is produced through 'Meend'.
 
 While playing 'Meend' a kind of tension is created in the main wire. When the 'Meend' passes in the upward direction, tension in the wire increases and when it passes in the downward direction, tension in the wire decreases. 'Meend' plays an important part in music. It is of great aesthetic value in music. 'Meend' is a speciality of 'Sitar'. It has a distinct effect and is a favourite ornament with all the 'Sitar' players.
 
@@ -119,11 +119,11 @@ Another varity of Gat is known as '**Amirkhani-Gat**'. The syllables or boles of
 **For Example:**
 <pre>
   1                                     
-  Ga Ma    Dha Ni_    'Sa 'Re    'Ga 'Re
-  Da Ra    Da Ra      Da Ra      Da Ra  
+  {v:Ga Ma'}    {v:Dha Ni_}    {v:'Sa 'Re}    {v:'Ga 'Re}
+  {v:Da Ra}    {v:Da Ra}      {v:Da Ra}      {v:Da Ra}  
   O                                     
-  'Sa Ni_   Dha_ Pa   Ma_ Ga_    Re_ Sa     Ga
-  Da Ra    Da Ra      Da Ra      Da Ra      Da
+  {v:'Sa Ni_}   {v:Dha_ Pa}   {v:Ma_ Ga_}    {v:Re_ Sa}     Ga
+  {v:Da Ra}    {v:Da Ra}      {v:Da Ra}      {v:Da Ra}      Da
   3                                      X
 </pre>
 
@@ -131,15 +131,15 @@ Another varity of Gat is known as '**Amirkhani-Gat**'. The syllables or boles of
 
 **For example:**
 <pre>
-  1
-  Ni_ Sa Ga Ma   Pa Dha Pa Ma
-  Da Ra Da Ra    Da Ra Da Ra
+  
+  {-:Ni_ Sa Ga Ma}   {-:Pa Dha Pa Ma}
+  {-:Da Ra Da Ra}    {-:Da Ra Da Ra}
   O
-  Ga Ma Dha Ni_  'Sa 'Re 'Sa Ni_   Dha Ni_ 'Sa 'Re
-  Da Ra Da Re    Da Ra Da Ra     Da Ra Da Ra
+  {-:Ga Ma Dha Ni_}  {-:'Sa 'Re 'Sa Ni_}   {-:Dha Ni_ 'Sa 'Re}
+  {-:Da Ra Da Re}    {-:Da Ra Da Ra}     {-:Da Ra Da Ra}
   3
-  'Ga 'Re Sa Ni_  Dha Pa Ma Ga    Re Sa Ni_ Sa      Pa
-  Da Ra Da Ra    Da Ra Da Ra     Da Ra Da Ra       Da
+  {-:'Ga 'Re Sa Ni_}  {-:Dha Pa Ma Ga}    {-:Re Sa Ni_ Sa}      Pa
+  {-:Da Ra Da Ra}    {-:Da Ra Da Ra}     {-:Da Ra Da Ra}       Da
                                                  X
 </pre>
 **Note:**-In Sitar Todas are generally played in Dugun, Chougun and Athgun Layas. In Maseetkhani-Gats the Todas are played in Chougun and Athgun Layas. In Razakhani-Gats Todas are played in Dugun Laya. Sometimes, these are also played in Barabar-ki-Laya, i.e., in the same speed as that of the Gat.
