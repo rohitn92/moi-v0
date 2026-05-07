@@ -112,6 +112,9 @@
         .content-prose tr:nth-child(even) {
             background-color: var(--bg-primary-light); /* New style for even rows */
         }
+        .content-prose code {
+            font-weight: 600;
+        }
         .content-prose pre {
             white-space: pre-wrap;
             word-wrap: break-word;
@@ -298,7 +301,8 @@
                      }
                 }
                 const markdown = await response.text();
-                contentArea.innerHTML = marked.parse(markdown);
+                const processed = markdown.replace(/\b(Sa|Re|Ga|Ma|Pa|Dha|Ni)_/g, '<u>$1</u>');
+                contentArea.innerHTML = marked.parse(processed);
                 mobileHeaderTitle.textContent = chapterTitle;
 
                 // Wrap tables for horizontal scrolling on mobile

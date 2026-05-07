@@ -14,13 +14,13 @@ Ashraya Raga is also known as Thata-Vachak-Raga or the Raga which suggests the n
 
 | No. | Thata                                            | Ashraya Raga                                                                                    |
 | --- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| 1.  | Bilawal:<br>`Sa Re Ga Ma Pa Dha Ni 'Sa`          | Bilawal:<br>Aroha: `Sa Re Ga Ma Pa Dha Ni 'Sa`<br>Avaroha: `'Sa Ni Dha Pa Ma Ga Re Sa`          |
-| 2.  | Yaman or Kalyan:<br>`Sa Re Ga Ma' Pa Dha Ni 'Sa` | Yaman:<br>Aroha: `Sa Re Ga Ma' Pa Dha Ni 'Sa`<br>Avaroha: `'Sa Ni Dha Pa Ma' Ga Re Sa`          |
-| 3.  | Khamaj:<br>`Sa Re Ga Ma Pa Dha Ni_ 'Sa`          | Khamaj:<br>Aroha: `Sa Re Ga Ma Pa Dha Ni 'Sa`<br>Avaroha: `'Sa Ni_ Dha Pa Ma Ga Re Sa`          |
-| 4.  | Bhairava:<br>`Sa Re_ Ga Ma Pa Dha_ Ni 'Sa`       | Bhairava:<br>Aroha: `Sa Re_ Ga Ma Pa Dha_ Ni 'Sa`<br>Avaroha: `'Sa Ni Dha_ Pa Ma Ga Re_ Sa`     |
-| 5.  | Poorvi:<br>`Sa Re_ Ga Ma' Pa Dha_ Ni 'Sa`        | Poorvi:<br>Aroha: `Sa Re_ Ga Ma' Pa Dha_ Ni 'Sa`<br>Avaroha: `'Sa Ni Dha_ Pa Ma' Ga Re_ Sa`     |
-| 6.  | Marwa:<br>`Sa Re_ Ga Ma' Pa Dha Ni 'Sa`          | Marwa:<br>Aroha: `Sa Re_ Ga Ma' Dha Ni 'Sa`<br>Avaroha: `'Sa Ni Dha Ma' Ga Re_ Sa`              |
-| 7.  | Kaphi:<br>`Sa Re Ga_ Ma Pa Dha Ni_ 'Sa`          | Kaphi:<br>Aroha: `Sa Re Ga_ Ma Pa Dha Ni_ 'Sa`<br>Avaroha: `'Sa Ni_ Dha Pa Ma Ga_ Re Sa`        |
-| 8.  | Asawari:<br>`Sa Re Ga_ Ma Pa Dha_ Ni_ 'Sa`       | Asawari:<br>Aroha: `Sa Re Ma Pa Dha_ 'Sa`<br>Avaroha: `'Sa Ni_ Dha_ Pa Ma Ga_ Re Sa`            |
-| 9.  | Bhairavi:<br>`Sa Re_ Ga_ Ma Pa Dha_ Ni_ 'Sa`     | Bhairavi:<br>Aroha: `Sa Re_ Ga_ Ma Pa Dha_ Ni_ 'Sa`<br>Avaroha: `'Sa Ni_ Dha_ Pa Ma Ga_ Re_ Sa` |
-| 10. | Todi:<br>`Sa Re_ Ga_ Ma' Pa Dha_ Ni 'Sa`         | Todi:<br>Aroha: `Sa Re_ Ga_ Ma' Pa Dha_ Ni 'Sa`<br>Avaroha: `'Sa Ni Dha_ Pa Ma' Ga_ Re_ Sa`     |
+| 1.  | Bilawal:<br>Sa Re Ga Ma Pa Dha Ni 'Sa          | Bilawal:<br>Aroha: Sa Re Ga Ma Pa Dha Ni 'Sa<br>Avaroha: 'Sa Ni Dha Pa Ma Ga Re Sa          |
+| 2.  | Yaman or Kalyan:<br>Sa Re Ga Ma' Pa Dha Ni 'Sa | Yaman:<br>Aroha: Sa Re Ga Ma' Pa Dha Ni 'Sa<br>Avaroha: 'Sa Ni Dha Pa Ma' Ga Re Sa          |
+| 3.  | Khamaj:<br>Sa Re Ga Ma Pa Dha Ni_ 'Sa          | Khamaj:<br>Aroha: Sa Re Ga Ma Pa Dha Ni 'Sa<br>Avaroha: 'Sa Ni_ Dha Pa Ma Ga Re Sa          |
+| 4.  | Bhairava:<br>Sa Re_ Ga Ma Pa Dha_ Ni 'Sa       | Bhairava:<br>Aroha: Sa Re_ Ga Ma Pa Dha_ Ni 'Sa<br>Avaroha: 'Sa Ni Dha_ Pa Ma Ga Re_ Sa     |
+| 5.  | Poorvi:<br>Sa Re_ Ga Ma' Pa Dha_ Ni 'Sa        | Poorvi:<br>Aroha: Sa Re_ Ga Ma' Pa Dha_ Ni 'Sa<br>Avaroha: 'Sa Ni Dha_ Pa Ma' Ga Re_ Sa     |
+| 6.  | Marwa:<br>Sa Re_ Ga Ma' Pa Dha Ni 'Sa          | Marwa:<br>Aroha: Sa Re_ Ga Ma' Dha Ni 'Sa<br>Avaroha: 'Sa Ni Dha Ma' Ga Re_ Sa              |
+| 7.  | Kaphi:<br>Sa Re Ga_ Ma Pa Dha Ni_ 'Sa          | Kaphi:<br>Aroha: Sa Re Ga_ Ma Pa Dha Ni_ 'Sa<br>Avaroha: 'Sa Ni_ Dha Pa Ma Ga_ Re Sa        |
+| 8.  | Asawari:<br>Sa Re Ga_ Ma Pa Dha_ Ni_ 'Sa       | Asawari:<br>Aroha: Sa Re Ma Pa Dha_ 'Sa<br>Avaroha: 'Sa Ni_ Dha_ Pa Ma Ga_ Re Sa            |
+| 9.  | Bhairavi:<br>Sa Re_ Ga_ Ma Pa Dha_ Ni_ 'Sa     | Bhairavi:<br>Aroha: Sa Re_ Ga_ Ma Pa Dha_ Ni_ 'Sa<br>Avaroha: 'Sa Ni_ Dha_ Pa Ma Ga_ Re_ Sa |
+| 10. | Todi:<br>Sa Re_ Ga_ Ma' Pa Dha_ Ni 'Sa         | Todi:<br>Aroha: Sa Re_ Ga_ Ma' Pa Dha_ Ni 'Sa<br>Avaroha: 'Sa Ni Dha_ Pa Ma' Ga_ Re_ Sa     |
