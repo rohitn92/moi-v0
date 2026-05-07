@@ -115,6 +115,44 @@
         .content-prose code {
             font-weight: 600;
         }
+        .tara, .mandra {
+            display: inline-block;
+            position: relative;
+        }
+        .tara::after {
+            content: '·';
+            position: absolute;
+            top: -0.3em;
+            left: 0; right: 0;
+            text-align: center;
+            font-size: 0.85em;
+            font-weight: bold;
+            line-height: 1;
+        }
+        .mandra::after {
+            content: '·';
+            position: absolute;
+            bottom: -0.4em;
+            left: 0; right: 0;
+            text-align: center;
+            font-size: 0.85em;
+            font-weight: bold;
+            line-height: 1;
+        }
+        .teevra {
+            display: inline-block;
+            position: relative;
+        }
+        .teevra::after {
+            content: '∣';
+            position: absolute;
+            top: -0.55em;
+            left: 0; right: 0;
+            text-align: center;
+            font-size: 0.75em;
+            font-weight: bold;
+            line-height: 1;
+        }
         .content-prose pre {
             white-space: pre-wrap;
             word-wrap: break-word;
@@ -301,8 +339,12 @@
                      }
                 }
                 const markdown = await response.text();
-                const processed = markdown.replace(/\b(Sa|Re|Ga|Ma|Pa|Dha|Ni)_/g, '<u>$1</u>');
-                contentArea.innerHTML = marked.parse(processed);
+                contentArea.innerHTML = marked.parse(markdown);
+                contentArea.innerHTML = contentArea.innerHTML
+                    .replace(/\b(Sa|Re|Ga|Ma|Pa|Dha|Ni)_/g, '<u>$1</u>')
+                    .replace(/(?<!')\b(Sa|Re|Ga|Ma|Pa|Dha|Ni)'(?!')/g, '<span class="teevra">$1</span>')
+                    .replace(/(?<!')'(Sa|Re|Ga|Ma|Pa|Dha|Ni)(?!')/g, '<span class="tara">$1</span>')
+                    .replace(/\b(Sa|Re|Ga|Ma|Pa|Dha|Ni)\./g, '<span class="mandra">$1</span>');
                 mobileHeaderTitle.textContent = chapterTitle;
 
                 // Wrap tables for horizontal scrolling on mobile
